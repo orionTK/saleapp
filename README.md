@@ -1,0 +1,2 @@
+# saleapp
+*clone
